@@ -1,4 +1,4 @@
-//0 1 1 2 3 5 8 Fabinacci Series
+//0 1 1 2 3 5 8 Fibinacci Series
 let n1=0;
 let n2=1
 let n3=0;
